@@ -5,7 +5,7 @@ export default function Navbar() {
         <nav className="nav">
             <div className='nav-items'>
                 <img src={logo} width="70px" />
-                <h1 className='facts'>BeeFacts</h1>
+                <h1 className='logo_text'>BeeFacts</h1>
             </div>
             
             <ul className="nav-items">

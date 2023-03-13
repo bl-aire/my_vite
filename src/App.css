@@ -22,11 +22,21 @@
   padding: 0 0 0 3em;
 }
 
-.facts{
+.logo_text{
   padding: 0 1em;
   color: rgb(117, 226, 248);
 }
 
 .main {
   padding: 1em 2em;
+}
+
+.facts li{
+  padding-block: 5px;
+  max-width: 400px; /*wraps text*/
+}
+
+.facts li::marker{ /*not accepted by all browsers*/
+  color: rgb(117, 226, 248);
+  font-size: 1.2em;
 }
