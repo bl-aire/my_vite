@@ -8,6 +8,7 @@
 .nav{
   display: flex;
   justify-content: space-between;
+  min-width: 90vw;
   align-items: center;
 }
 
@@ -18,7 +19,7 @@
 }
 
 .nav-items li{
-  padding: 0 2em;
+  padding: 0 0 0 3em;
 }
 
 .facts{
