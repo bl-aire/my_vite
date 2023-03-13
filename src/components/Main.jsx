@@ -1,5 +1,12 @@
 export default function Main() {
     return(
-        <h1>Main!</h1>
+        <div>
+            <h1> Fun facts about me!</h1>
+            <ul>
+                <li>I love Cats</li>
+                <li>I love coding</li>
+                <li>I love books</li>
+            </ul>
+        </div>
     )
 }
