@@ -1,6 +1,6 @@
 export default function Main() {
     return(
-        <div>
+        <div className="main">
             <h1> Fun facts about me!</h1>
             <ul>
                 <li>I love Cats</li>

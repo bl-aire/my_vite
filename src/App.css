@@ -1,6 +1,6 @@
 #root {
   max-width: 1280px;
-  padding: 2rem 0;
+
 }
 
 .nav{
@@ -24,4 +24,9 @@
 
 .facts{
   padding: 0 1em;
+  color: rgb(117, 226, 248);
+}
+
+.main {
+  padding: 1em 2em;
 }
